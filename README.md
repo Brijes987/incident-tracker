@@ -1,6 +1,11 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2-green)
+![React](https://img.shields.io/badge/React-18-blue)
+
 # Incident Tracker
 
 A full-stack web application for managing production incidents with server-side pagination, filtering, and sorting capabilities.
+
 
 ## Tech Stack
 
